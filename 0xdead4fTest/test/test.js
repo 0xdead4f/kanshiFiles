@@ -1,1 +1,1 @@
-alerta();
+alertazz();
